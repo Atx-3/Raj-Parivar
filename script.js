@@ -33,27 +33,23 @@ const bioData = {
     hobbies: "khana khana",
     jobs: "sam ko marna",
     income: "Roti pe hain",
-    favorites: "Pink, 5, Chocolate",
+    favorites: "black, 5, Rice",
       best: "kuch nahin ",
-      bad: "Spends too much",
-      goals: "achi shadi ho jaye"
+      bad: "khana khana",
+      goals: "jab hoga dekha jayega"
     },
-    "name Tiwari": {
-      name: "name Tiwari",
-    relation: "Son of Shailendra Tiwari",
-    age: 15,
-    education: "Narayana E-Techno 8th",
-    hobbies: "khana khana",
-    jobs: "sam ko marna",
+    "Sarita Tiwari": {
+      name: "Sarita Tiwari",
+    relation: "Wife of Shailendra Tiwari",
+    age: 40,
+    education: "bsc 1st year",
+    hobbies: "gardening",
+    jobs: "ghar ka kaam",
     income: "Roti pe hain",
-    favorite: {
-      member: "Sam",
-      color: "White (chawal ka)",
-      number: 1
-    },
-    bestThing: "ladna",
-    badHabit: "zadda kahate hain",
-    futureGoals: "Btech"
+    favorites: "Pink, 5, golgappa",
+    best: "parenting",
+    bad: "Diating",
+    goals: "Bacche sab achi jagha phauch jaye"
     },
   };
   
