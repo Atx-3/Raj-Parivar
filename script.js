@@ -33,15 +33,28 @@ const bioData = {
     hobbies: "khana khana",
     jobs: "sam ko marna",
     income: "Roti pe hain",
+    favorites: "Pink, 5, Chocolate",
+      best: "kuch nahin ",
+      bad: "Spends too much",
+      goals: "achi shadi ho jaye"
+    },
+    "name Tiwari": {
+      name: "name Tiwari",
+    relation: "Son of Shailendra Tiwari",
+    age: 15,
+    education: "Narayana E-Techno 8th",
+    hobbies: "khana khana",
+    jobs: "sam ko marna",
+    income: "Roti pe hain",
     favorite: {
-        member: "Sam",
-        color: "White (chawal ka)",
-        number: 1
+      member: "Sam",
+      color: "White (chawal ka)",
+      number: 1
     },
     bestThing: "ladna",
     badHabit: "zadda kahate hain",
     futureGoals: "Btech"
-}
+    },
   };
   
   function showBio(member) {
